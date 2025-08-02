@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: healthcare
-        image: chandanyadavks/chandanhealth:latest
+        image: chandanyadavks/yadavhealth:latest
         ports:
         - containerPort: 8081
         env:
