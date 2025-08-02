@@ -32,4 +32,4 @@ spec:
   ports:
   - port: 8081
     targetPort: 8081
-    nodePort: 30082   # Optional: specify NodePort (default random 30000–32767)
+    nodePort: 30085 # Optional: specify NodePort (default random 30000–32767)
